@@ -14,7 +14,7 @@
 - [Issues](#issues-and-bugs)
 
 ## TLDR
-AppManager automatically checks your database it's apps to see if there are newer app versions available remotely.<br/>
+AppManager automatically checks the apps of your database to see if there are newer app versions available remotely.<br/>
 We compare the installed versions on your database with the latest available apps on <a href="https://www.theodoostore.com" target="_blank">The Odoo Store</a>.<br/>
 Since The Odoo Store automatically syncs thousands of apps on a daily basis, through a direct Github connector, we always know about updates!<br/>
 AppManager will auto-check your apps against our platform and if updates are available you will be notified!
